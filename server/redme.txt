@@ -1,0 +1,3 @@
+- file_transfer -> videti kako da to ide sve iz fajla a ne zakucano
+- file_transfer -> nekom asimetrijom poslati mozda kljuc pa posle symentricno razmeniti poruku
+- file_transfer -> mozda neki chat napraviti zasticen kriptografijom
